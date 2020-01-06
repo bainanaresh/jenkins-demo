@@ -13,6 +13,7 @@ class JenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		logger.info("in tesrt method automatic build testing.........");
 		logger.info("in tesrt method.........");
 		logger.info("in test class method.........");
 		assertEquals(true,true);
