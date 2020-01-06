@@ -16,7 +16,7 @@ class JenkinsDemoApplicationTests {
 		logger.info("in tesrt method automatic build testing.........");
 		logger.info("in tesrt method.........");
 		logger.info("in test class method.........");
-		assertEquals(true,true);
+		assertEquals(false,true);
 		
 	}
 
