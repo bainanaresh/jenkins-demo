@@ -15,7 +15,7 @@ class JenkinsDemoApplicationTests {
 	void contextLoads() {
 		
 		logger.info("in test class method.........");
-		assertEquals(true,true);
+		assertEquals(false,true);
 		
 	}
 
