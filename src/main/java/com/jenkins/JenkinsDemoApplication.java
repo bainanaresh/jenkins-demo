@@ -19,6 +19,7 @@ public class JenkinsDemoApplication {
 	}
 
 	public static void main(String[] args) {
+		logger.info("in main()........");
 		
 		logger.info("in main method........");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
