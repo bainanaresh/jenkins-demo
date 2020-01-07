@@ -13,6 +13,7 @@ class JenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		logger.info("pipeline integartion with jenkins");
 		logger.info("in tesrt method automatic build testing.........");
 		logger.info("in tesrt method.........");
 		logger.info("in test class method.........");

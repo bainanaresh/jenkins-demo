@@ -19,6 +19,7 @@ public class JenkinsDemoApplication {
 	}
 
 	public static void main(String[] args) {
+		logger.info("pipeline integartion with jenkins");
 		logger.info("in tesrt method automatic build testing.........");
 		logger.info("in main()........");
 		
